@@ -1,0 +1,2 @@
+(this["webpackJsonphc-reports"]=this["webpackJsonphc-reports"]||[]).push([[0],{10:function(e,t,r){"use strict";r.r(t);var c=r(1),n=r.n(c),s=r(3),o=r.n(s),i=(r(8),r(0));var p=function(){return Object(i.jsx)("div",{className:"App",children:"Hello, Reports!"})};o.a.render(Object(i.jsx)(n.a.StrictMode,{children:Object(i.jsx)(p,{})}),document.getElementById("root"))},8:function(e,t,r){}},[[10,1,2]]]);
+//# sourceMappingURL=main.8d1978a2.chunk.js.map
